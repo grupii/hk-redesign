@@ -1,0 +1,25 @@
+
+
+- [ ] body
+	- [ ] change font
+- [ ] navbar
+	- [x] add luna transp.
+	- [ ] change h1 "hilda kertalli" to svg
+	- [ ] turn navbar into nonsticky after 3 consistent scrolls
+- [ ] hero sect.
+	- [x] full vh vw video
+	- [x] edit a "compilation"
+	- [x] add buttons (currently non functional)
+	- [ ] add js functionality to buttons for mailing/calendly or redirecting insite
+	- [ ] lower the filesize of the video
+	- [ ] have hilda rework/add on the PR project new videos or resize the focus plan
+	- [ ] add a small AE effect @ the end of the video having Luna wink 
+	- [ ] rework initials to stay same size unless met w/ spec. width sizes
+- [ ] about me
+	- [ ] find a wider "adventurous" about me hero pic to adapt w/ the lower part of the site
+	- [ ] display h1, paragraph and a contact me button
+- [ ] dora explorer
+	- [x] black bg, h1 and parag. in width (of desired) about me sect.
+	- [x] add cards, images and buttons; representing an "adventure"
+	- [ ] make buttons functional (seek input from hilda) about hrefing
+	- [x] infinite scroll marquee effect + stop on hover (temp logos)
